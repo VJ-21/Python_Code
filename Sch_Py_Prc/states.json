@@ -1,0 +1,105 @@
+
+{
+  "states": [
+    {
+      "id": 1,
+      "name": "Andhra Pradesh",
+      "capital": "Amaravati",
+      "population": 49500000,
+      "area": 162968,
+      "language": "Telugu",
+      "region": "South",
+      "is_coastal": true
+    },
+    {
+      "id": 2,
+      "name": "Telangana",
+      "capital": "Hyderabad",
+      "population": 35000000,
+      "area": 112077,
+      "language": "Telugu",
+      "region": "South",
+      "is_coastal": false
+    },
+    {
+      "id": 3,
+      "name": "Karnataka",
+      "capital": "Bengaluru",
+      "population": 67500000,
+      "area": 191791,
+      "language": "Kannada",
+      "region": "South",
+      "is_coastal": true
+    },
+    {
+      "id": 4,
+      "name": "Tamil Nadu",
+      "capital": "Chennai",
+      "population": 77000000,
+      "area": 130058,
+      "language": "Tamil",
+      "region": "South",
+      "is_coastal": true
+    },
+    {
+      "id": 5,
+      "name": "Kerala",
+      "capital": "Thiruvananthapuram",
+      "population": 35600000,
+      "area": 38863,
+      "language": "Malayalam",
+      "region": "South",
+      "is_coastal": true
+    },
+    {
+      "id": 6,
+      "name": "Maharashtra",
+      "capital": "Mumbai",
+      "population": 124000000,
+      "area": 307713,
+      "language": "Marathi",
+      "region": "West",
+      "is_coastal": true
+    },
+    {
+      "id": 7,
+      "name": "Gujarat",
+      "capital": "Gandhinagar",
+      "population": 70000000,
+      "area": 196024,
+      "language": "Gujarati",
+      "region": "West",
+      "is_coastal": true
+    },
+    {
+      "id": 8,
+      "name": "Rajasthan",
+      "capital": "Jaipur",
+      "population": 81000000,
+      "area": 342239,
+      "language": "Hindi",
+      "region": "North",
+      "is_coastal": false
+    },
+    {
+      "id": 9,
+      "name": "Uttar Pradesh",
+      "capital": "Lucknow",
+      "population": 241000000,
+      "area": 240928,
+      "language": "Hindi",
+      "region": "North",
+      "is_coastal": false
+    },
+    {
+      "id": 10,
+      "name": "West Bengal",
+      "capital": "Kolkata",
+      "population": 100000000,
+      "area": 88752,
+      "language": "Bengali",
+      "region": "East",
+      "is_coastal": true
+    }
+  ]
+}

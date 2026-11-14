@@ -1,0 +1,56 @@
+ Introduction to the Developer Associate Course
+ Amazon Elastic Beanstalk
+ Elastic Beanstalk Follow Along
+ Elastic Container Service
+ Elastic Container Registry
+ EKS
+ AWS Fargate
+ AWS X Ray
+ AWS Certificate Manager
+ Amazon Route 53
+ Key Management Service
+ Amazon Cognito
+ SNS
+ SQS
+ Kinesis
+ SSM Parameter Store
+ AWS Secrets Manager
+ Amazon DynamoDB
+ DynamoDB Follow Along
+ Amazon EC2
+ Identity and Access Management
+ AWS CloudTrail
+ AWS CloudFormation
+ Serverless Application Model
+ Continuous Integration Development
+ AWS CodeCommit
+ Docker
+ AWS CodeBuild
+ AWS CodeDeploy
+ AWS CodePipeline
+ RDS
+ S3
+ Amazon ElasticCache
+ Amazon API Gateway
+ MemoryDB
+ AWS Step Functions
+ AWS API
+ Amazon Virtual Private Cloud
+ AWS Lambda
+ CloudFront 
+ Aurora
+ ELB
+ Athena
+ AWS Copilot
+ EFS
+ EBS
+ Cloud9
+ AWS AppConfig
+ AI Dev Tools
+ Amazon Detective
+ AWS Batch
+ AWS Firewall Manager
+ AppSync
+ AWS Amplify
+ OpenSearch Service
+ AWS ML Managed Services 

@@ -1,0 +1,26 @@
+ .   - Any character Except New Line (MATCHES ALL CHARACTERS) --- pattern=re.compile(r'.')
+ \d  - Digit (0-9)    Matches digits from 0 to 9              --- pattern=re.compile(r'\d')
+ \D  - Not a Digit    Not a digit
+ \w  - Word character (a-z,A-Z,0-9,_)
+ \W  - Not a Word character
+ \s  - whitespace (space,tab,newline)
+ \S  - Not whitespace (space,tab,newline)
+
+ \b  - Word Boundary
+ \B  - Not a word Boundary  
+  ^  - Beginning of the string 
+  $  - End of the string 
+
+[] - Matches characters in the bracket like [a-z] 
+[^ ]- Matches characters NOT IN bracket
+|   - Either or
+()  - Group 
+
+Quantifiers
+
+*   - 0 or More
++   - 1 or More 
+?   - 0 or One
+{3} - Exact number
+{3,4}- Range of Numbers(Minimum,Maximum)
+

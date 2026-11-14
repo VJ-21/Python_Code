@@ -1,0 +1,11 @@
+DEBUG:root:Addition is 5
+DEBUG:root:Subtraction is 2
+DEBUG:root:Addition is 1335
+DEBUG:root:Subtraction is 2  
+2026-11-04 12:30:00,365:DEBUG:Addition is 1335
+2026-11-04 12:30:00,365:DEBUG:Subtraction is 2
+2026-11-04 12:42:26,998:DEBUG:Addition is 1335
+2026-11-04 12:42:26,998:DEBUG:Subtraction is 2
+2026-11-04 23:52:01,030:INFO:I am writing this line so that it will add the log file 
+2026-11-05 00:30:07,644:INFO:I am writing this line so that it will add the log file 
+2026-11-05 00:31:29,636:INFO:I am writing this line so that it will add the log file 

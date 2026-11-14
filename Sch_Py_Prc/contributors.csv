@@ -1,0 +1,16 @@
+contributor_id,name,email,age,country,contributions,role
+101,John Smith,john@gmail.com,25,USA,45,Developer
+102,David Kumar,david@gmail.com,28,India,32,Data Engineer
+103,Sarah Wilson,sarah@gmail.com,24,UK,56,Tester
+104,Michael Brown,michael@gmail.com,30,Canada,78,Developer
+105,Priya Sharma,priya@gmail.com,26,India,65,Data Analyst
+106,Robert Jones,robert@gmail.com,35,USA,21,Developer
+107,Anjali Reddy,anjali@gmail.com,23,India,89,Tester
+108,James Miller,james@gmail.com,29,Australia,43,Data Engineer
+109,Emily Davis,emily@gmail.com,27,UK,51,Developer
+110,Rahul Verma,rahul@gmail.com,31,India,37,Data Analyst
+111,Olivia Taylor,olivia@gmail.com,22,USA,92,Tester
+112,Daniel Lee,daniel@gmail.com,33,Singapore,28,Developer
+113,Neha Gupta,neha@gmail.com,25,India,74,Data Engineer
+114,William Clark,william@gmail.com,40,Canada,19,Developer
+115,Sophia Martin,sophia@gmail.com,28,UK,63,Data Analyst
