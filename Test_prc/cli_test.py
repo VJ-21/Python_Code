@@ -2,7 +2,7 @@
 # They are essential part of many development workflows.
 # In python you can create your own command line utilities using built in argparse module
 # Two types of arguments we can parse positional arguments  and the optional arguments
-# Whenever you pass argument through terminal or command prompt it comes back as string so we have to convert it accordingly
+# Whenever you pass argument through terminal or command prompt it comes back as string so we have to convert it accordingly 
 
 import argparse
 
